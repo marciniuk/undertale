@@ -22,8 +22,8 @@
   </bitDepths>
   <preload>-1</preload>
   <data>mus_napstahouse.ogg</data>
-  <compressed>0</compressed>
-  <streamed>0</streamed>
+  <compressed>1</compressed>
+  <streamed>1</streamed>
   <uncompressOnLoad>0</uncompressOnLoad>
   <audioGroup>0</audioGroup>
 </sound>
